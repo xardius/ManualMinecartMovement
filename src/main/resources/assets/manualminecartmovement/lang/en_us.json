@@ -1,0 +1,13 @@
+{
+  "itemGroup.manualminecartmovement": "Example Mod Tab",
+  "block.manualminecartmovement.example_block": "Example Block",
+  "item.manualminecartmovement.example_item": "Example Item",
+
+  "manualminecartmovement.configuration.title": "Manual Minecart Movement Configs",
+  "manualminecartmovement.configuration.section.manualminecartmovement.common.toml": "Manual Minecart Movement Configs",
+  "manualminecartmovement.configuration.section.manualminecartmovement.common.toml.title": "Manual Minecart Movement Configs",
+  "manualminecartmovement.configuration.items": "Item List",
+  "manualminecartmovement.configuration.logDirtBlock": "Log Dirt Block",
+  "manualminecartmovement.configuration.magicNumberIntroduction": "Magic Number Text",
+  "manualminecartmovement.configuration.magicNumber": "Magic Number"
+}
